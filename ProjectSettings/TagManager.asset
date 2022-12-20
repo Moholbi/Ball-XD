@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - LaunchPad
+  - Ball
+  - RightWall
+  - LeftWall
+  - MovingPlatform
+  - MovingBody
+  - Wood
+  - Metal
+  - Background
+  - SplitBR
+  - RWall
+  - LWall
+  - TWall
+  - BWall
+  - Shard
+  - Music
+  - Key
+  - LeftCleaner
+  - RightCleaner
+  - MiddleCleaner
+  - Floor
+  - Ceiling
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Camera
+  - Water
+  - UI
+  - 
+  - Sticky
+  - Lighting
+  - Ground
+  - Postprocessing
+  - Passable
+  - Impassable
+  - Ball
+  - MovingPlatform
+  - Background
+  - Cleaner
+  - BrokenGlass
+  - Locked
+  - Unlocked
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
